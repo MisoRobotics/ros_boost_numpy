@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>ros_boost_numpy</name>
-  <version>1.0.1</version>
+  <version>1.1.0</version>
   <description>A ROS package for Boost.Numpy extension</description>
   <maintainer email="ryan@rwsinnet.com">Ryan Sinnet</maintainer>
   <license>Boost Software License</license>
