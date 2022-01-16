@@ -2,6 +2,12 @@
 Changelog for package ros_boost_numpy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.0 (2022-01-12)
+------------------
+* RAD-79: Migrate to catkin package format v3
+  Update to work with Python 3 and Noetic.
+* Contributors: Ryan Sinnet
+
 1.0.0 (2018-06-13)
 ------------------
 * Fixed 'catkin_make install'
