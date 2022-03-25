@@ -6,8 +6,8 @@
   <description>A ROS package for Boost.Numpy extension</description>
   <maintainer email="ryan@rwsinnet.com">Ryan Sinnet</maintainer>
   <license>Boost Software License</license>
-  <url type="repository">https://github.com/rsinnet/ros_boost_numpy.git</url>
-  <url type="website">http://wiki.ros.org/rsinnet/ros_boost_numpy/wiki</url>
+  <url type="repository">https://github.com/MisoRobotics/ros_boost_numpy.git</url>
+  <url type="website">https://github.com/MisoRobotics/ros_boost_numpy/wiki</url>
 
   <buildtool_depend>catkin</buildtool_depend>
 
