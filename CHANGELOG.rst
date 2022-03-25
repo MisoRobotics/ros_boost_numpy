@@ -2,8 +2,8 @@
 Changelog for package ros_boost_numpy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.1.1 (2022-03-25)
+------------------
 * Merge branch 'user/rsinnet/RAD-171' into develop
 * RAD-171: Add labeling workflow
   Add a labeling workflow to apply the `flippy` label.
